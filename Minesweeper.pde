@@ -24,7 +24,7 @@ void setup ()
 public void setBombs()
 {
     //your code
-    for (int i = 0; i < 100; i++)
+    for (int i = 0; i < 200; i++)
     {
         int tempRow = (int)(Math.random()*NUM_ROWS);
         int tempCol = (int)(Math.random()*NUM_COLS);
