@@ -9,7 +9,7 @@ private ArrayList <MSButton> bombs = new ArrayList<MSButton>(); //ArrayList of j
 
 void setup ()
 {
-    size(400, 400);
+    size(600, 600);
     textAlign(CENTER,CENTER);
     textSize(18);
     // make the manager
