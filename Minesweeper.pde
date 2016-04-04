@@ -10,7 +10,7 @@ private ArrayList <MSButton> bombs = new ArrayList<MSButton>(); //ArrayList of j
 void setup ()
 {
     size(600, 600);
-    textAlign(CENTER,CENTER);
+    textAlign(TOP,CENTER);
     textSize(18);
     // make the manager
     Interactive.make( this );
